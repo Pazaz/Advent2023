@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "day1": "nodemon src/day1.ts",
-    "test": "jest"
+    "day2": "nodemon src/day2.ts"
   },
   "author": "",
   "license": "MIT",
